@@ -1,4 +1,4 @@
-package com.alps.compose_mvvm_strcucture.ui.theme
+package com.alps.compose_mvvm_strcucture.view.ui.theme
 
 import androidx.compose.material3.Typography
 import androidx.compose.ui.text.TextStyle
